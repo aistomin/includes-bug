@@ -4,4 +4,5 @@ In this repository I try to reproduce the problem described in [this post](http:
 ## To reproduce the problem:
 
 * Run `grails run-app`
-* Open http://localhost:8080/composite/index
+* Open http://localhost:8080
+* Check console output
